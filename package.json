@@ -1,0 +1,9 @@
+{
+  "name": "sdc-overview-api",
+  "version": "0.01",
+  "description": "An API for Hack Ractor SDC",
+  "main": "index.js",
+  "repository": "https://github.com/DavidDavydovTech/sdc-overview-api",
+  "author": "David J. Davydov <davydovjd611@gmail.com>",
+  "license": "MIT"
+}
