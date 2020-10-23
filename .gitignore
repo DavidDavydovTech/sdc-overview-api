@@ -104,3 +104,7 @@ dist
 .tern-port
 
 *.csv
+transformation/sku
+transformation/photo
+transformation/style
+transformation/output
